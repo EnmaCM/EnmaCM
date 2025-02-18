@@ -1,14 +1,34 @@
-# Mr heyp
+# Enmanuel C.
 
 <!--
 **EnmaCM/EnmaCM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 -->
-### Hey there!! I'm Mr heyp 
-  I'm currenly learning programming and web development, this repository its a too empty but I'll soon will start some proyect to 
-  show here.
+### Hey there!! I'm Enmanuel
+Web development, System Programming, Scripting and Software Development.
+
+## Programming languages:
+- C++
+- Javascript
+- Python
+- C#
   
-- 🌱 I’m currently learning javascript, html and css
-- I'm working to become a fullstack web developer
-- I'm interested on learning python, c# and go
-- I'm also interested on learning PHP because of wordpress 
+## Other languages:
+- HTML
+- CSS
+- SQL
+
+## Tecnologies:
+- Nodejs
+- .NET
+- React
+- Express
+  
+## Databases:
+1. Mysql
+2. SQL Server
+3. PostgreSQL
+
+## Operative systems
+1. Linux (Ubuntu)
+2. Windows
